@@ -51,17 +51,17 @@
 		},
 		{
 			"url": "http://172.16.2.2/dashboard/periodo1/",
-			"duration": 10,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 15
 		},
 		{
 			"url": "http://172.16.2.2/dashboard/periodo2/",
-			"duration": 10,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 15
 		},
 		{
 			"url": "http://172.16.2.2/dashboard/grafico/",
-			"duration": 10,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 15
 		}
 		
