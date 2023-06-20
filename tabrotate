@@ -58,6 +58,11 @@
 			"url": "http://172.16.2.2/dashboard/periodo2/",
 			"duration": 10,
 			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url": "http://172.16.2.2/dashboard/grafico/",
+			"duration": 10,
+			"tabReloadIntervalSeconds": 15
 		}
 		
 	]
