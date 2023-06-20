@@ -1,0 +1,24 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.patreon.com/kevdev",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
