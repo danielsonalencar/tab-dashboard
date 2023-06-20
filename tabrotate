@@ -63,6 +63,11 @@
 			"url": "http://172.16.2.2/dashboard/grafico/",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url": "https://grupoclaudino-my.sharepoint.com/:x:/g/personal/thiago_rodrigues_armazemparaiba_com_br/EUpyK0TbdEVJiDW-Z9G6-2sBKpX6LPH17kmllcYbw8PLcw?e=4%3AZZlAYL&at=9&CID=43da7d8e-3b45-1afd-102a-e6cb698bd374",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 15
 		}
 		
 	]
