@@ -60,6 +60,11 @@
 			"tabReloadIntervalSeconds": 15
 		},
 		{
+			"url": "http://172.16.2.2/dashboard/periodo3/",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 15
+		},
+		{
 			"url": "http://172.16.2.2/dashboard/grafico/",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 15
