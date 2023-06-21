@@ -2,7 +2,7 @@
 	"settingsReloadIntervalMinutes": 1,
 	"fullscreen": true,
 	"autoStart": true,
-	"lazyLoadTabs": false,
+	"lazyLoadTabs": true,
 	"closeExistingTabs": true,
 	"websites": [{
 			"url": "https://csalogam.claudinosa.com.br/dashboards/1/",
