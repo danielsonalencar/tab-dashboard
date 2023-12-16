@@ -30,7 +30,7 @@
 			"tabReloadIntervalSeconds": 15
 		},
 		{
-			"url": "http://grafana.claudinosa.com.br:3000/d/e-4M2PKVz/relatorio-de-impressoras?orgId=1&refresh=5s",
+			"url": "https://grafana.claudinosa.com.br:3000/d/e-4M2PKVz/relatorio-de-impressoras?orgId=1&refresh=5s&from=1702751109695&to=1702752909695",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 15
 		},
