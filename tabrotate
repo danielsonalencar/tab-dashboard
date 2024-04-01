@@ -25,11 +25,6 @@
 			"tabReloadIntervalSeconds": 15
 		},
 		{
-			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/reports/rel_tecnicos.php?con=1",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 15
-		},
-		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/e-4M2PKVz/relatorio-de-impressoras?orgId=1&refresh=5s&from=1702751109695&to=1702752909695",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 15
