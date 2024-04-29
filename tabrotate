@@ -15,12 +15,12 @@
 			"tabReloadIntervalSeconds": 15
 		},
 		{
-			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/metrics/index.php",
+			"url": "https://grafana.claudinosa.com.br:3000/d/e-4M2PKVz/relatorio-de-impressoras?orgId=1&refresh=5s&from=1702751109695&to=1702752909695",
 			"duration": 30,
-			"tabReloadIntervalSeconds": 15
+			"tabReloadIntervalSeconds": 43200
 		},
 		{
-			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/tickets/chamados.php",
+			"url": "https://grafana.claudinosa.com.br:3000/d/PU-MZeMIk/monitoramento-relogio-de-ponto-e-micros?orgId=1",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 15
 		}
