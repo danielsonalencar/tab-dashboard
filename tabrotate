@@ -10,7 +10,7 @@
 			"tabReloadIntervalSeconds": 40
 		},
 		{
-			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/",
+			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/atual",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 15
 		},
