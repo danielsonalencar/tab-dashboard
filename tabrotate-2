@@ -15,7 +15,7 @@
 			"tabReloadIntervalSeconds": 15
 		},
 		{
-			"url": "http://sitef.grupoclaudino.com.br:8080/",
+			"url": "http://csadtigsviagem.claudinosa.com.br/dashboard-viagens/",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 15
 		},
