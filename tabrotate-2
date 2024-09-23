@@ -33,6 +33,16 @@
 			"url": "http://scodiv/dashboard-niver/",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 60
+		},
+		{
+			"url": "https://grafana.claudinosa.com.br:3000/d/Fk8Ee1RNk/status-uptime-pdvs?orgId=1",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 60
+		},
+		{
+			"url": "https://grafana.claudinosa.com.br:3000/d/ef0bfVeIz/pdv-crediario?orgId=1",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 60
 		}
 		
 	]
