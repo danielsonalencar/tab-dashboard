@@ -23,6 +23,16 @@
 			"url": "https://grafana.claudinosa.com.br:3000/d/PU-MZeMIk/monitoramento-relogio-de-ponto-e-micros?orgId=1",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url": "https://grafana.claudinosa.com.br:3000/d/ef0bfVeIz/pdv-crediario?orgId=1",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url": "https://grafana.claudinosa.com.br:3000/d/Fk8Ee1RNk/status-uptime-pdvs?orgId=1",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 15
 		}
 		
 	]
