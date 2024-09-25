@@ -43,6 +43,11 @@
 			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/tickets/chamados.php",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 19
+		},
+		{
+			"url": "https://grafana2.claudinosa.com.br:3000/d/cNnnXpCIk/monitoramento-loja-rep-representante?orgId=1&refresh=10s",
+			"duration": 20,
+			"tabReloadIntervalSeconds": 60
 		}
 		
 	]
