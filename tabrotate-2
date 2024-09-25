@@ -43,6 +43,11 @@
 			"url": "https://grafana.claudinosa.com.br:3000/d/ef0bfVeIz/pdv-crediario?orgId=1",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 60
+		},
+		{
+			"url": "https://grafana2.claudinosa.com.br:3000/d/v1O6FORHz/status-fortigate-filial-e-posto?orgId=1&refresh=10s",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 60
 		}
 		
 	]
