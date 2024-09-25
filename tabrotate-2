@@ -6,7 +6,7 @@
 	"closeExistingTabs": true,
 	"websites": [{
 			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/atual",
-			"duration": 30,
+			"duration": 20,
 			"tabReloadIntervalSeconds": 15
 		},
 		{
@@ -21,12 +21,12 @@
 		},
                 {
 			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/metrics/index.php",
-			"duration": 30,
+			"duration": 20,
 			"tabReloadIntervalSeconds": 15
 		},
                 {
 			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/tickets/chamados.php",
-			"duration": 30,
+			"duration": 20,
 			"tabReloadIntervalSeconds": 15
 		},
 		{
@@ -36,17 +36,17 @@
 		},
 		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/Fk8Ee1RNk/status-uptime-pdvs?orgId=1",
-			"duration": 30,
+			"duration": 20,
 			"tabReloadIntervalSeconds": 60
 		},
 		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/ef0bfVeIz/pdv-crediario?orgId=1",
-			"duration": 30,
+			"duration": 20,
 			"tabReloadIntervalSeconds": 60
 		},
 		{
 			"url": "https://grafana2.claudinosa.com.br:3000/d/v1O6FORHz/status-fortigate-filial-e-posto?orgId=1&refresh=10s",
-			"duration": 30,
+			"duration": 20,
 			"tabReloadIntervalSeconds": 60
 		}
 		
