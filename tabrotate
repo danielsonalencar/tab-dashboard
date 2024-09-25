@@ -33,6 +33,11 @@
 			"url": "https://grafana.claudinosa.com.br:3000/d/Fk8Ee1RNk/status-uptime-pdvs?orgId=1",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 15
+		},
+		{
+			"url": "https://grafana2.claudinosa.com.br:3000/d/v1O6FORHz/status-fortigate-filial-e-posto?orgId=1&refresh=10s",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 15
 		}
 		
 	]
