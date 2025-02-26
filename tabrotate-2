@@ -56,12 +56,12 @@
 		},
                 {
 			"url": "http://scodiv/dashboard-tv/grafico.html",
-			"duration": 20,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 60
 		},
                 {
 			"url": "http://scodiv/dashboard-tv/regional-erisvaldo.html",
-			"duration": 20,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 60
 		}
 		
