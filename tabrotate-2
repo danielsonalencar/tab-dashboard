@@ -63,11 +63,6 @@
 			"url": "http://scodiv/dashboard-tv/regional-erisvaldo.html",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 60
-		},
-                {
-			"url": "http://scodiv/dashboard-tv/regional-ronie-von.html",
-			"duration": 30,
-			"tabReloadIntervalSeconds": 60
 		}
 		
 	]
