@@ -6,7 +6,7 @@
 	"closeExistingTabs": true,
 	"websites": [{
 			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/atual",
-			"duration": 20,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 15
 		},
 		{
@@ -31,7 +31,7 @@
 		},
 		{
 			"url": "http://scodiv/dashboard-niver/",
-			"duration": 20,
+			"duration": 10,
 			"tabReloadIntervalSeconds": 60
 		},
 		{
