@@ -6,7 +6,7 @@
 	"closeExistingTabs": true,
 	"websites": [{
 			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/atual",
-			"duration": 20,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 10
 		},
 		{
@@ -22,7 +22,7 @@
 		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/ef0bfVeIz/pdv-crediario?orgId=1",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 19
+			"tabReloadIntervalSeconds": 50
 		},
 
                 {
