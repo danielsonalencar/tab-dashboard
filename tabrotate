@@ -5,11 +5,6 @@
 	"lazyLoadTabs": false,
 	"closeExistingTabs": true,
 	"websites": [{
-			"url": "https://csalogam.claudinosa.com.br/dashboards/1/",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/atual",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 10
