@@ -7,12 +7,12 @@
 	"websites": [{
 			"url": "https://csalogam.claudinosa.com.br/dashboards/1/",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 40
+			"tabReloadIntervalSeconds": 180
 		},
 		{
 			"url": "https://servicedesk.claudinosa.com.br/dashboard/suporte/atual",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 19
+			"tabReloadIntervalSeconds": 10
 		},
 		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/e-4M2PKVz/relatorio-de-impressoras?orgId=1&refresh=5s&from=1702751109695&to=1702752909695",
@@ -22,7 +22,7 @@
 		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/PU-MZeMIk/monitoramento-relogio-de-ponto-e-micros?orgId=1",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 19
+			"tabReloadIntervalSeconds": 180
 		},
 		{
 			"url": "https://grafana.claudinosa.com.br:3000/d/ef0bfVeIz/pdv-crediario?orgId=1",
@@ -33,17 +33,17 @@
                 {
 			"url": "https://grafana.claudinosa.com.br:3000/d/EWgjiPMNk/nobreak-logmaster?orgId=1&var-Group=NOBREAK&var-Host=All&refresh=1m",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 19
+			"tabReloadIntervalSeconds": 50
 		},
 		{
 			"url": "https://grafana2.claudinosa.com.br:3000/d/v1O6FORHz/status-fortigate-filial-e-posto?orgId=1&refresh=10s",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 19
+			"tabReloadIntervalSeconds": 20
 		},
 		{
 			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/tickets/chamados.php",
 			"duration": 20,
-			"tabReloadIntervalSeconds": 19
+			"tabReloadIntervalSeconds": 10
 		}
 		
 	]
