@@ -29,11 +29,6 @@
 			"duration": 20,
 			"tabReloadIntervalSeconds": 19
 		},
-		{
-			"url": "https://grafana.claudinosa.com.br:3000/d/Fk8Ee1RNk/status-uptime-pdvs?orgId=1",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 19
-		},
 
                 {
 			"url": "https://grafana.claudinosa.com.br:3000/d/EWgjiPMNk/nobreak-logmaster?orgId=1&var-Group=NOBREAK&var-Host=All&refresh=1m",
@@ -49,11 +44,6 @@
 			"url": "https://servicedesk.claudinosa.com.br/plugins/dashboard/front/tickets/chamados.php",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 19
-		},
-		{
-			"url": "https://grafana2.claudinosa.com.br:3000/d/cNnnXpCIk/monitoramento-loja-rep-representante?orgId=1&refresh=10s",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 60
 		}
 		
 	]
